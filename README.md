@@ -7,3 +7,4 @@ Next word generation model using tensorflow
 - Data preprocessing and removing unwanted lines
 - Using perplexity
 - Using different models and comparing outputs
+- using character level models
